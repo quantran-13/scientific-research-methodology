@@ -17,6 +17,7 @@ Câu truy vấn được đặt trong dấu ngoặc kép `""`  đồng nghĩa v�
 |--|--|--|
 | Puppy Dog Sweaters | About 50,000,000 results  (0.53 seconds) |Nội dung chứa 3 từ theo bất kỳ thứ tự nào |
 | "Puppy Dog Sweaters" | About 773,000 results  (0.39 seconds) |Nội dung chứa chính xác cụm từ được sắp xếp ở trên đầu kết quả tìm kiếm |
+
 Điều này có thể giúp xác định vị trí thông tin cụ thể có thể bị chôn vùi trong nội dung khác nếu không được sắp xếp chính xác.
 #### Dùng dấu trừ `-`:
 Dấu trừ `-` trong câu truy vấn để dùng để loại trừ các kết quả không mong muốn. 
