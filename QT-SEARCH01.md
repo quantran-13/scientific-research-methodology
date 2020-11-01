@@ -55,6 +55,7 @@ Google đưa ra gợi ý rằng tăng dần độ phức tạp của cấu trúc
 | 1 | Phỏng vấn xin việc |
 | 2 | Chuẩn bị phỏng vấn xin việc |
 | 3 | Làm thế nào để chuẩn bị phỏng vấn xin việc |
+
 Điều này sẽ dần dần tinh chỉnh câu truy vấn để mang lại kết quả gần với mong đợi nhất. Lý do không nên bỏ qua lần tìm kiếm thứ hai là vì khả năng người dùng có thể bỏ lỡ những thông tin mà bản thân đang cần.
 Hàng triệu trang web diễn đạt cùng một thông tin theo một số cách khác nhau. Việc sử dụng kỹ thuật này cho phép người dùng tìm kiếm càng nhiều càng tốt để tìm thông tin tốt nhất.
 #### Sử dụng những từ ngữ của các trang web:
@@ -77,5 +78,5 @@ Người dùng có thể nhanh chóng tra cứu hoặc chuyển đổi tiền t�
 Cú pháp `DEFINE:từ/cụm từ` để nhanh chóng tra nghĩa của từ, bao gồm cả tiếng lóng thông qua Google Search.
 
 > Bài viết được tham khảo từ:
-https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html 
-https://time.com/4116259/google-search-2/ 
+> https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html
+> https://time.com/4116259/google-search-2/ 
