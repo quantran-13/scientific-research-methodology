@@ -1,11 +1,12 @@
+# BÁO CÁO TÓM TẮT VỀ BUỔI SEMINAR “QUYỀN SỞ HỮU TRÍ TUỆ VÀ KHAI THÁC QUYỀN SỞ HỮU TRÍ TUỆ TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN”
+
 Nhóm: N005
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân
 - 17520964 - Nguyễn Đình Quyết
----
 
-# BÁO CÁO TÓM TẮT VỀ BUỔI SEMINAR “QUYỀN SỞ HỮU TRÍ TUỆ VÀ KHAI THÁC QUYỀN SỞ HỮU TRÍ TUỆ TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN”
+---
 
 Nhóm xin gửi lời cảm ơn chân thành tới PGS. TS. Lê Đình Duy và Th.S Ngô Hữu Thống (Chánh Văn phòng IPTC) đã có những chia sẻ về “Quyền Sở hữu trí tuệ và khai thác quyền Sở hữu trí tuệ trong lĩnh vực Công nghệ Thông tin”.
 
