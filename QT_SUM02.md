@@ -21,7 +21,7 @@ The 5W1H questioning technique is a framework that you can use when gathering in
 | Why 	| Describe the motivation, or the objective, or the justification or reason behind a method of working. 	| Goals, purposes, justification, etc. 	| - Why do we have to do it? <br>- Why is the program important? <br>- Why is the project necessary? 	|
 | How 	| Determine the way to proceed, the steps and method employed. 	| Procedures, organisational methods, the actions, means and techniques used, etc. 	| - How did it happen? <br>- How will the program work? <br>- How will success be measured? 	|
 
-## Writing 5-sentence paragraphparagraph
+## Writing 5-sentence paragraph
 
 A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow.
 
