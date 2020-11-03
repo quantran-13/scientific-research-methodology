@@ -34,7 +34,7 @@ Câu truy vấn được đặt trong dấu ngoặc kép `""`  đồng nghĩa v�
 ## 3. Dùng dấu trừ `-`
 
 Dấu trừ `-` trong câu truy vấn để dùng để loại trừ các kết quả không mong muốn.
-Ví dụ, người dùng muốn tìm kiếm *Anaconda* (nền tảng mã nguồn mở về Khoa học dữ liệu trên Python). Nhưng kết quả lại là bị lẫn với thông tin về trăn Anaconda. Để loại trừ kết quả này, câu truy vấn sẽ sửa lại thành: `Anaconda - snake`.
+Ví dụ, người dùng muốn tìm kiếm *jupiter* (loại xe máy của hãng Yamaha). Nhưng kết quả lại là bị lẫn với thông tin về sao Mộc (một hành tinh trong hệ Mặt Trời). Để loại trừ kết quả này, câu truy vấn sẽ sửa lại thành: `jupiter -planet`.
 
 ![googletips-nominus](./Images/googletips-minus0.png)
 
