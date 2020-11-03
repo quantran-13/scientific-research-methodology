@@ -13,7 +13,7 @@ Sau đây là những mẹo giúp việc tìm kiếm trở nên dễ dàng và h
 
 ## 1. Tận dụng các tab tìm kiếm chuyên dụng
 
-Các nhà cung cấp thường giúp người dùng tìm kiếm thông tin hiệu quả hơn thông qua các tab tìm kiếm thông dụng, ví dụ như Website, Hình ảnh, Tin tức,  Xu hướng, và nhiều tab khác. 
+Các nhà cung cấp thường giúp người dùng tìm kiếm thông tin hiệu quả hơn thông qua các tab tìm kiếm thông dụng, ví dụ như Website, Hình ảnh, Tin tức,  Xu hướng, và nhiều tab khác.
 
 ![Google Image Search](https://i.insider.com/5c6ef4f52628982b9e0d5742?width=800&format=jpeg&auto=webp)
 > Người dùng có thể chọn tab Tin tức để tìm kiếm những mẫu tin từ các kênh tin tức hoặc báo.
@@ -36,47 +36,47 @@ Câu truy vấn được đặt trong dấu ngoặc kép `""`  đồng nghĩa v�
 Dấu trừ `-` trong câu truy vấn để dùng để loại trừ các kết quả không mong muốn.
 Ví dụ, người dùng muốn tìm kiếm *Anaconda* (nền tảng mã nguồn mở về Khoa học dữ liệu trên Python). Nhưng kết quả lại là bị lẫn với thông tin về trăn Anaconda. Để loại trừ kết quả này, câu truy vấn sẽ sửa lại thành: `Anaconda - snake`
 
-![googletips-minus](./images/googletips-minus.png)
+![googletips-minus](./Images/googletips-minus.png)
 
 ## 4. Dùng dấu hoa thị `*`
 
 Dấu hoa thị `*` là một trong mẹo hữu ích nhất khi tìm kiếm. Google Search sẽ hiểu rằng `*` có thể là bất kỳ từ nào, và sẽ tìm kiếm kết quả có liên quan đến câu truy vấn nhất.
 Ví dụ như tìm một bài hát nhưng không biết hết các từ trong phần lời, người dùng chỉ cần đơn giản nhập truy vấn như sau:  `Come * right now * me`.
 
-![googletips-asterisk](./images/googletips-asterisk.png)
+![googletips-asterisk](./Images/googletips-asterisk.png)
 Kết quả là bài hát Come Together của nhóm nhạc The Beatles.
 
 ## 5. Dùng cú pháp `site`
 
 Cú pháp `từ khóa/nội dung site:trang web` để tìm kiếm kết quả câu truy vấn từ trang web cụ thể: `Apple site:genk.vn`
 
-![googletips-site](./images/googletips-site.png)
+![googletips-site](./Images/googletips-site.png)
 
 ## 6. Dùng cú pháp  `link`
 
 Cú pháp `link:tên trang web` để tìm trang web liên kết đến trang web trong cú pháp.
 Câu truy vấn: `link:tiki.vn` sẽ tìm thấy khoảng 2,480,000 kết quả  (0.38 giây).
 
-![googletips-link](./images/googletips-link.png)
+![googletips-link](./Images/googletips-link.png)
 
 ## 7. Dùng cú pháp  `related`
 
 Cú pháp `related:tên trang web` để tìm trang web tương tự trang web trong cú pháp.
 Ví dụ, người dùng tìm một kênh bán thiết bị điện tử như FPT Shop, câu truy vấn sẽ là: `related:fptshop.com.vn`.
 
-![googletips-related](./images/googletips-related.png)
+![googletips-related](./Images/googletips-related.png)
 
 ## 8. Tính toán đơn giản
 
 Google Search có thể giúp người dùng thực hiện các phép toán có độ phức tạp thấp: `8 * 5 + 5`, hoặc tìm kiếm công thức toán học nhanh chóng: `Planck’s Constant`
 
-![googletips-math](./images/googletips-math.png)
+![googletips-math](./Images/googletips-math.png)
 
 ## 9. Tìm kiếm đồng thời với `OR`
 
 Dùng `OR` để tìm kiếm đồng thời nhiều từ khóa trong một câu truy vấn: `ipad OR chromebook`
 
-![googletips-OR](./images/googletips-OR.png)
+![googletips-OR](./Images/googletips-OR.png)
 
 ## 10. Câu truy vấn hiệu quả
 
@@ -112,7 +112,7 @@ Vì thế, các nhà cung cấp dịch vụ thường gợi ý người dùng s�
 Cú pháp `từ khóa/nội dung filetype:loại tập tin` để tìm một loại tập tin cụ thể về nội dung của từ khóa hoặc nội dung trong câu truy vấn.
 Ví dụ, tìm tài liệu pdf về ngôn ngữ lập trình python: `python programming language filetype:pdf`.
 
-![googletips-filetype](./images/googletips-filetype.png)
+![googletips-filetype](./Images/googletips-filetype.png)
 
 ## 14. Chuyển đổi tiền tệ và đơn vị
 
@@ -127,7 +127,7 @@ Người dùng có thể nhanh chóng tra cứu hoặc chuyển đổi tiền t�
 
 Cú pháp `DEFINE:từ/cụm từ` để nhanh chóng tra nghĩa của từ, bao gồm cả tiếng lóng thông qua Google Search.
 
-![googletips-define](./images/googletips-define.png)
+![googletips-define](./Images/googletips-define.png)
 
 >Bài viết được tham khảo từ:
 >
