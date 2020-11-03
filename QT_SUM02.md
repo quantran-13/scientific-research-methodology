@@ -25,6 +25,12 @@ The 5W1H questioning technique is a framework that you can use when gathering in
 
 A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow.
 
+Types of Paragraphs:
+- Descriptive paragraphs: outline or describe the topic.
+- Expository paragraphs: offer explanation and/or analysis.
+- Narrative paragraphs: tell the events of what happened in a particular situation.
+- Argument paragraphs lay out a point that you are trying to prove, show your logical argument, and provide evidence to back you up.
+
 The Paragraph Structure should include:
 - Topic Sentence: This sentence tells the reader the main idea, or what the paragraph will be about.
 - Suporting sentences (from 3 to 4 sentences): This sentence gives specific details relating to the main idea (evidence and examples).
