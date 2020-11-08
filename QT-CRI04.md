@@ -6,8 +6,6 @@
 - 17520943 - Trần Nguyễn Hồng Quân
 - 17520964 - Nguyễn Đình Quyết
 ---
-#### **Chủ đề:** Chất lượng của sách giáo khoa xuống cấp, nguyên do là ở nhà biên soạn, xuất bản hay cơ quan thẩm định?
----
 Cố Chủ tịch Hồ Chí Minh từng nói: *“Cái mầm có xanh thì cây mới vững, cái búp có xanh thì lá mới tươi quả mới tốt, con trẻ có được nuôi dưỡng giáo dục hẳn hoi thì dân tộc mới tự cường tự lập”*. Tuy nhiên, những sự việc gần đây về sách giáo khoa lớp 1 lại làm dấy lên vấn đề liên quan đến chất lượng giáo dục của quốc gia. 
 
 Theo quy định của Bộ Giáo dục - Đào tạo (GD-ĐT), Sách Giáo khoa (SGK) được biên soạn, kiểm duyệt qua 5 bước, và trước khi sách được phát hành phải được Bộ GD-ĐT phê duyệt. Tuy thế nhưng thị trường sách giáo khoa hiện nay là một ma trận không lối thoát. Điều này dẫn đến sự thiếu thống nhất trong hệ thống giáo dục quốc gia. Không chỉ thế, một số quyển sách còn có những sai sót khó hiểu về mặt kiến thức, điển hình là sự việc của SGK lớp 1 mới từ nhà xuất bản Cánh Diều. Khi chưa kịp lắp đầy những lỗ hổng kiến thức, học sinh còn phải đối mặt với một chương trình học quá nhanh, quá sức đối với độ tuổi "mầm non". Đây không nên là hệ quả của một cuốn sách giáo khoa đã qua 5 bước kiểm duyệt kĩ càng!
