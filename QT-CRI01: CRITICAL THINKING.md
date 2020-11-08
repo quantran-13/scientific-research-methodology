@@ -1,4 +1,4 @@
-# Hãy viết tóm tắt cách bạn hiểu về Critical Thinking và cho một ví dụ minh hoạ.Trong ví dụ này - phân tích 2 mặt - và lợi ích khi nhìn vấn đề 2 mặt.
+# Hãy viết tóm tắt cách bạn hiểu về Critical Thinking và cho một ví dụ minh hoạ. Trong ví dụ này - phân tích 2 mặt - và lợi ích khi nhìn vấn đề 2 mặt.
 
 Nhóm: N005
 
