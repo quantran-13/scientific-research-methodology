@@ -23,7 +23,7 @@ ResearchGate là một mạng xã hội dành cho nhà khoa học và nhà nghi�
 |Publicaions| |Những dự án hoặc nghiên cứu được công bố rộng rãi liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
 |Questions| |Những câu hỏi và trả lời có liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
 |Jobs|Đăng nhập|Những dự án hoặc nghiên cứu cần tìm kiếm người cộng tác
-|Instutions|Đăng nhập|Thường là trường Đại học hoặc Cao đẳng có ngành nghề thuộc lĩnh vực tìm kiếm, hoặc có nhóm nghiên cứu và dự án liên quan đến câu truy vấn
+|Institutions|Đăng nhập|Trường Đại học có ngành học thuộc lĩnh vực tìm kiếm, hoặc có nhóm nghiên cứu và dự án liên quan đến câu truy vấn; Các tổ chức thuộc chính phủ nghiên cứu về lĩnh vực này
 |Departments|Đăng nhập|Những tổ chức khoa học và nghiên cứu liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
 |Authors||Tác giả của bài viết, dự án liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
 
