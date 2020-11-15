@@ -16,7 +16,7 @@
 
 ResearchGate là một mạng xã hội dành cho nhà khoa học và nhà nghiên cứu để chia sẻ các dự án và nghiên cứu, đồng thời có thể đặt câu hỏi và trả lời câu hỏi, hoặc tìm kiếm người để cộng tác. Bộ lọc cụ thể và đa dạng giúp người dùng dễ dàng tìm kiếm hơn:
 
-| Bộ lọc | Điều kiện | Giải thích |
+| Bộ lọc | Yêu cầu | Giải thích |
 |--|--|--|
 |Researchers|Đăng nhập|Những nhà khoa học và nghiên cứu liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
 |Projects|Đăng nhập|Những dự án chưa được công bố rộng rãi liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
@@ -32,7 +32,13 @@ Ví dụ, người dùng muốn tìm kiếm những bài viết liên quan đế
 - Bước 2: Nhập câu truy vấn vào thanh tìm kiếm: Climate Change
 > Lưu ý: ResearchGate là một site quốc tế, nên việc tìm kiếm bằng tiếng Anh cung cấp nhiều kết quả có liên quan hơn.
 - Bước 3: Nhấn Enter hoặc nhấp vào icon kính lúp để bắt đầu tìm kiếm
-- Bước 4: Lựa chọn kết quả tìm kiếm để thu nhập các thông tin cần thiết
+- Bước 4: Lựa chọn bộ lọc phù hợp để tìm kiếm thông tin
+
+![rg before log in](./Images/rg-beforelogin.png)
+*Hình 1: Kết quả tìm kiếm và bộ lọc khi chưa đăng nhập*
+
+![rg after log in](./Images/rg-afterlogin.png)
+*Hình 2: Kết quả tìm kiếm và bộ lọc khi đã đăng nhập*
 
 ## 2. Wikipedia
 ***Trang chủ:** https://www.wikipedia.org/*
