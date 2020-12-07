@@ -50,6 +50,8 @@ Giải pháp hữu ích là sản phẩm dưới dạng một kết cấu như m
 
 ### **6. Thủ tục đăng ký bảo hộ sáng chế như thế nào?**
 
+![quy-trinh](https://investone-law.com/wp-content/uploads/2019/09/thu-tuc-dang-ky-sang-che.jpg)
+
 ***(1) Tài liệu cần có của đơn***
 
 - **02 Tờ khai** đăng ký sáng chế, đánh máy theo mẫu số 01-SC Phụ lục A của Thông tư số 01/2007/TT-BKHCN;
