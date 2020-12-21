@@ -1,4 +1,6 @@
-﻿# HÃY CHO BIẾT CÁCH SỬ DỤNG GOOGLE VÀ CÁC SITE KHÁC ĐỂ TÌM KIẾM THÔNG TIN SAO CHO HIỆU QUẢ?
+﻿# QT-SEARCH01: TÌM KIẾM
+
+> Hãy cho biết cách sử dụng Google và các site khác để tìm kiếm thông tin sao cho hiệu quả?
 
 Nhóm: N005
 
