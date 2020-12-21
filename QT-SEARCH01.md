@@ -10,6 +10,23 @@ Nhóm: N005
 
 ---
 
+- [QT-SEARCH01: TÌM KIẾM](#qt-search01-tìm-kiếm)
+  - [1. Tận dụng các tab tìm kiếm chuyên dụng](#1-tận-dụng-các-tab-tìm-kiếm-chuyên-dụng)
+  - [2. Dùng dấu ngoặc kép `“”`](#2-dùng-dấu-ngoặc-kép-)
+  - [3. Dùng dấu trừ `-`](#3-dùng-dấu-trừ--)
+  - [4. Dùng dấu hoa thị `*`](#4-dùng-dấu-hoa-thị-)
+  - [5. Dùng cú pháp `site`](#5-dùng-cú-pháp-site)
+  - [6. Dùng cú pháp  `link`](#6-dùng-cú-pháp--link)
+  - [7. Dùng cú pháp  `related`](#7-dùng-cú-pháp--related)
+  - [8. Tính toán đơn giản](#8-tính-toán-đơn-giản)
+  - [9. Tìm kiếm đồng thời với `OR`](#9-tìm-kiếm-đồng-thời-với-or)
+  - [10. Câu truy vấn hiệu quả](#10-câu-truy-vấn-hiệu-quả)
+  - [11. Tăng dần độ phức tạp của câu truy vấn](#11-tăng-dần-độ-phức-tạp-của-câu-truy-vấn)
+  - [12. Sử dụng những từ ngữ của các trang web](#12-sử-dụng-những-từ-ngữ-của-các-trang-web)
+  - [13. Dùng cú pháp `filetype`](#13-dùng-cú-pháp-filetype)
+  - [14. Chuyển đổi tiền tệ và đơn vị](#14-chuyển-đổi-tiền-tệ-và-đơn-vị)
+  - [15. Dùng cú pháp `DEFINE`](#15-dùng-cú-pháp-define)
+
 Các kênh tìm kiếm thông tin đã dần trở thành một phần không thể thiếu của con người, đặc biệt là giới trẻ hiện nay. Google là cái tên nổi bật trong những nhà cung cấp dịch vụ này, với hơn 1 tỷ người dùng trên toàn thế giới.
 Sau đây là những mẹo giúp việc tìm kiếm trở nên dễ dàng và hiệu quả hơn:
 
