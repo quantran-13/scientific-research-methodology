@@ -1,4 +1,4 @@
-# CHO BIẾT CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN ĐƯỢC NÊU RA TRONG VIDEO VÀ CHO VÍ DỤ VỀ MỘT TRONG CÁC RÀO CẢN ĐÓĐÓ
+# CHO BIẾT CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN ĐƯỢC NÊU RA TRONG VIDEO VÀ CHO VÍ DỤ VỀ MỘT TRONG CÁC RÀO CẢN ĐÓ
 
 Nhóm: N005
 
