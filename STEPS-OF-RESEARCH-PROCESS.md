@@ -12,6 +12,6 @@ Nhóm: N005
 
 ## 2. Trong 6 bước trên - theo bạn bước nào mà bạn nghĩ là khó nhất?
 
-Bước khó nhất là (bước 4) CREATE - tạo ra nội dung để trình bày, vì: 
+Bước khó nhất là bước 2, việc xác định một chính xác chủ đề/vấn đề ***hẹp*** mà bản thân muốn nghiên cứu.
 
-Khi thực hiện các bước trên, người nghiên cứu đang sử dụng ngôn ngữ của chính mình để hiểu vấn đề được đặt ra. Ở bước 4, phần metaphor (phép ẩn dụ, ẩn ý), người nghiên cứu phải "dịch" ngôn ngữ của bản thân thành ngôn ngữ của mọi người, tức là phải làm cho người đọc hoặc nghe hiểu được vấn đề mà mình trình bày. Không chỉ vậy, việc này còn yêu cầu sự sáng tạo và linh hoạt để tạo sự thú vị cho bước 5. 
+Bởi vì, một chủ đề mở (được giao ở bước 0) có thể có rất nhiều hướng nghiên cứu, đồng nghĩa với việc tìm hiểu các hướng đó (bước 11). Việc này không chỉ tốn thời gian ở việc tìm hiểu, người làm nghiên cứu còn sẽ gặp khó khăn trong việc lựa chọn chủ đề phù hợp với sở thích, năng lực, thời gian, và các yếu tố cá nhân khác.  
