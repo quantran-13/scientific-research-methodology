@@ -1,5 +1,7 @@
 # ÁP DỤNG TƯ DUY PHẢN BIỆN ĐỂ PHÂN TÍCH VÀ NHẬN ĐỊNH CỦA BẠN VỀ CÂU CHUYỆN LIÊN QUAN ĐẾN SGK LỚP 1 HIỆN NAY
 
+> Áp dụng Tư duy phản biện để phân tích và nhận định của bạn về câu chuyện liên quan đến SGK Lớp 1 hiện nay.
+>
 > Lưu ý bài phân tích và nhận định cần chú ý áp dụng kỹ năng viết đã học - đảm bảo ngắn gọn, súc tích, tập trung vào vấn đề chính.
 
 **Nhóm N005:**

@@ -1,5 +1,7 @@
 # CHO BIẾT CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN ĐƯỢC NÊU RA TRONG VIDEO VÀ CHO VÍ DỤ VỀ MỘT TRONG CÁC RÀO CẢN ĐÓ
 
+> Hãy cho biết các rào cản của tư duy phản biện (ví dụ tham khảo https://www.youtube.com/watch?v=KAaV37un26Q) và hãy cho một ví dụ về một trong các rào cản trên.
+
 **Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần

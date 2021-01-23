@@ -16,11 +16,9 @@
 
 ---
 
-## 1. ResearchGate
+## 1. [ResearchGate](https://www.researchgate.net/)
 
-**\*Trang chủ:** https://www.researchgate.net/*
-
-ResearchGate là một mạng xã hội dành cho nhà khoa học và nhà nghiên cứu để chia sẻ các dự án và nghiên cứu, đồng thời có thể đặt câu hỏi và trả lời câu hỏi, hoặc tìm kiếm người để cộng tác. Bộ lọc cụ thể và đa dạng giúp người dùng dễ dàng tìm kiếm hơn:
+**ResearchGate** là một mạng xã hội dành cho nhà khoa học và nhà nghiên cứu để chia sẻ các dự án và nghiên cứu, đồng thời có thể đặt câu hỏi và trả lời câu hỏi, hoặc tìm kiếm người để cộng tác. Bộ lọc cụ thể và đa dạng giúp người dùng dễ dàng tìm kiếm hơn:
 
 | Bộ lọc       | Yêu cầu   | Giải thích                                                                                                                                                               |
 | ------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -49,13 +47,11 @@ _Hình 1: Kết quả tìm kiếm và bộ lọc khi chưa đăng nhập_
 ![rg after log in](./Images/rg-afterlogin.png)
 _Hình 2: Kết quả tìm kiếm và bộ lọc khi đã đăng nhập_
 
-## 2. Wikipedia
-
-**\*Trang chủ:** https://www.wikipedia.org/*
+## 2. [Wikipedia](https://www.wikipedia.org/)
 
 ![wikipedia](./Images/wikipedia.png)
 
-Wikipedia là một bách khoa toàn thư trực tuyến với mục đích phi lợi nhuận.
+**Wikipedia** là một bách khoa toàn thư trực tuyến với mục đích phi lợi nhuận.
 
 Tương tự như ví dụ trên, người dùng thực hiện các bước sau để tìm kiếm:
 
