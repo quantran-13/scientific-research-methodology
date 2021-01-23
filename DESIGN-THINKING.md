@@ -19,26 +19,16 @@
 - Vai trò quan trọng của trải nghiệm khách hàng.
 - Vai trò quan trọng của đổi mới sáng tạo (**innovation**) trong thế giới cạnh tranh.
 
-## 4. Quá trình 5 bước
+## 3. Quá trình 5 bước
 
-![design-thinking](./Images/Design-Thinking.png)
+![design-thinking](./Images/design-thinking.png)
 
-- Bước 1: Empathy - Thấu hiểu
+- **Bước 1: Empathy - Thấu hiểu**: Đặt bản thân vào vị trí của người dùng để hiểu vấn đề cần giải quyết, thường là thông qua việc nghiên cứu người dùng.
 
-> Đặt bản thân vào vị trí của người dùng để hiểu vấn đề cần giải quyết, thường là thông qua việc nghiên cứu người dùng.
+- **Bước 2: Define - Xác định vấn đề**: Phân tích những thông tin đã thu nhập từ nghiên cứu để xác định vấn đề cốt lõi.
 
-- Bước 2: Define - Xác định vấn đề
+- **Bước 3: Ideation - Xây dựng ý tưởng**: Lên ý tưởng trên giấy để tạo ra giải pháp/sản phẩm giải quyết vấn đề đã xác định.
 
-> Phân tích những thông tin đã thu nhập từ nghiên cứu để xác định vấn đề cốt lõi.
+- **Bước 4: Prototype - Quá trình dựng mẫu**: Mục đích là xác định giải pháp/sản phẩm tốt nhất cho vấn đề từ những phiên bản mẫu thử nghiệm.
 
-- Bước 3: Ideation - Xây dựng ý tưởng
-
-> Lên ý tưởng trên giấy để tạo ra giải pháp/sản phẩm giải quyết vấn đề đã xác định.
-
-- Bước 4: Prototype - Quá trình dựng mẫu
-
-> Mục đích là xác định giải pháp/sản phẩm tốt nhất cho vấn đề từ những phiên bản mẫu thử nghiệm.
-
-- Bước 5: Test - Thử nghiệm
-
-> Quay lại các bước trước để thay đổi và cải tiến thêm giải pháp/sản phẩm.
+- **Bước 5: Test - Thử nghiệm**: Quay lại các bước trước để thay đổi và cải tiến thêm giải pháp/sản phẩm.
