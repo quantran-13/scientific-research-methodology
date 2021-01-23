@@ -1,6 +1,13 @@
 # READING - WRITING: INSIDE THE MIND OF A MASTER PROCRASTINATOR | TIM URBAN
 
-Nhóm: N005
+> Hãy xem đoạn video của Tim Urban trong link đính kèm và viết lại theo cấu trúc sau:
+>
+> 1. Vấn đề đặt ra trong bài nói chuyện là gì? Tại sao lại cần quan tâm đến vấn đề này
+> 2. Giả thuyết đặt ra là gì? Mô tả các thành phần của giả thuyết
+> 3. Cách giả thuyết giải thích/giải quyết vấn đề đặt ra là gì?
+> 4. Các hệ quả là gì?
+
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân
@@ -18,12 +25,12 @@ Lý do cần quan tâm đến vấn đề này: Sự ảnh hưởng của việc
 
 Bộ não của người có thói quen trì hoãn có 3 "nhân vật" chính và có những đặc điểm sau:
 
-- ***Người Quyết định theo Lý lẽ***: tính toán, lên kế hoạch và quyết định cho những việc làm ở thời điểm hiện tại và tương lai;
-- ***Chú khỉ Vui vẻ thoáng qua***: thích những thứ "easy" (dễ dàng) và "fun" (vui), và sợ duy nhất Quái vật Hoảng sợ;
-- ***Quái vật Hoảng sợ***: là "thiên thần hộ mệnh" của Người Quyết định theo Lý lẽ, giúp nhân vật này lấy lại quyền quyết định và kiểm soát tình hình.
+- **_Người Quyết định theo Lý lẽ_**: tính toán, lên kế hoạch và quyết định cho những việc làm ở thời điểm hiện tại và tương lai;
+- **_Chú khỉ Vui vẻ thoáng qua_**: thích những thứ "easy" (dễ dàng) và "fun" (vui), và sợ duy nhất Quái vật Hoảng sợ;
+- **_Quái vật Hoảng sợ_**: là "thiên thần hộ mệnh" của Người Quyết định theo Lý lẽ, giúp nhân vật này lấy lại quyền quyết định và kiểm soát tình hình.
 
 ![inside-procrastinator-mind](./Images/inside-procrastinator-mind-tim-urban.png)
-*Nguồn: https://www.youtube.com/watch?v=arj7oStGLkU&feature=emb_logo*
+_Nguồn: https://www.youtube.com/watch?v=arj7oStGLkU&feature=emb_logo_
 
 ## 3. Cách giả thuyết giải thích/giải quyết vấn đề đặt ra là gì?
 
@@ -40,4 +47,4 @@ Theo diễn giả Tim Urban đề cập, các đặc điểm của những ngư�
 
 - Trạng thái tiêu cực và khả năng stress cao;
 - Thất vọng và đau khổ về việc trì hoãn các quyết định trong quá khứ;
-- Đối với các dự án/vấn đề không thời hạn, sự trì hoãn kéo dài gần như mãi mãi. 
+- Đối với các dự án/vấn đề không thời hạn, sự trì hoãn kéo dài gần như mãi mãi.

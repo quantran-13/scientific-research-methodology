@@ -1,6 +1,12 @@
 # WRITING - VIẾT 5-SENTENCE PARAGRAPH
 
-Nhóm: N005
+> Hãy tìm hiểu về kỹ thuật viết 5-sentence paragraph theo các gợi ý của link đính kèm.
+>
+> Hãy thử kết nối với 5W1H - kỹ thuật đặt câu hỏi với 5-sentence paragraph - kỹ thuật Writing.
+>
+> Mỗi nhóm viết ít nhất một đoạn ngắn giới thiệu về một chủ đề nào đó, ví dụ báo cáo môn học, đề cương KLTN, đề cương đề tài NCKH-SV, etc
+
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân

@@ -1,6 +1,6 @@
 # TÌM TÀI LIỆU THAM KHẢO VỀ TƯ DUY PHẢN BIỆN TRÊN INTERNET VÀ TỔNG KẾT NGẮN GỌN VỀ CÁC NGUỒN ĐÓ
 
-Nhóm: N005
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân

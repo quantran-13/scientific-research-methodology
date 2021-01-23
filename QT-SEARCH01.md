@@ -2,7 +2,7 @@
 
 > Hãy cho biết cách sử dụng Google và các site khác để tìm kiếm thông tin sao cho hiệu quả?
 
-Nhóm: N005
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân
@@ -16,8 +16,8 @@ Nhóm: N005
   - [3. Dùng dấu trừ `-`](#3-dùng-dấu-trừ--)
   - [4. Dùng dấu hoa thị `*`](#4-dùng-dấu-hoa-thị-)
   - [5. Dùng cú pháp `site`](#5-dùng-cú-pháp-site)
-  - [6. Dùng cú pháp  `link`](#6-dùng-cú-pháp--link)
-  - [7. Dùng cú pháp  `related`](#7-dùng-cú-pháp--related)
+  - [6. Dùng cú pháp `link`](#6-dùng-cú-pháp-link)
+  - [7. Dùng cú pháp `related`](#7-dùng-cú-pháp-related)
   - [8. Tính toán đơn giản](#8-tính-toán-đơn-giản)
   - [9. Tìm kiếm đồng thời với `OR`](#9-tìm-kiếm-đồng-thời-với-or)
   - [10. Câu truy vấn hiệu quả](#10-câu-truy-vấn-hiệu-quả)
@@ -32,28 +32,29 @@ Sau đây là những mẹo giúp việc tìm kiếm trở nên dễ dàng và h
 
 ## 1. Tận dụng các tab tìm kiếm chuyên dụng
 
-Các nhà cung cấp thường giúp người dùng tìm kiếm thông tin hiệu quả hơn thông qua các tab tìm kiếm thông dụng, ví dụ như Website, Hình ảnh, Tin tức,  Xu hướng, và nhiều tab khác.
+Các nhà cung cấp thường giúp người dùng tìm kiếm thông tin hiệu quả hơn thông qua các tab tìm kiếm thông dụng, ví dụ như Website, Hình ảnh, Tin tức, Xu hướng, và nhiều tab khác.
 
 ![Google Image Search](https://i.insider.com/5c6ef4f52628982b9e0d5742?width=800&format=jpeg&auto=webp)
+
 > Người dùng có thể chọn tab Tin tức để tìm kiếm những mẫu tin từ các kênh tin tức hoặc báo.
-![Google News](https://cdn.vox-cdn.com/thumbor/JhPEuVDLEBqOhNLkkw5dItN1RuA=/0x0:1298x733/920x613/filters:focal(14x25:220x231):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55476767/google_news_redesign.0.png)
+> ![Google News](<https://cdn.vox-cdn.com/thumbor/JhPEuVDLEBqOhNLkkw5dItN1RuA=/0x0:1298x733/920x613/filters:focal(14x25:220x231):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55476767/google_news_redesign.0.png>)
 
 Điều này có thể nâng cao chất lượng kết quả trả về và tiết kiệm đáng kể thời gian tìm kiếm.
 
 ## 2. Dùng dấu ngoặc kép `“”`
 
-Câu truy vấn được đặt trong dấu ngoặc kép `""`  đồng nghĩa với việc tìm kiếm chính xác toàn bộ cụm từ trong câu truy vấn.
+Câu truy vấn được đặt trong dấu ngoặc kép `""` đồng nghĩa với việc tìm kiếm chính xác toàn bộ cụm từ trong câu truy vấn.
 | Câu truy vấn | Số lượng kết quả và thời gian truy vấn | Nhận xét kết quả tìm kiếm |
 |--|--|--|
-| Puppy Dog Sweaters | xấp xỉ 50,000,000 kết quả  (0.53 giây) |Nội dung chứa 3 từ theo bất kỳ thứ tự nào |
-| "Puppy Dog Sweaters" | xấp xỉ 773,000 kết quả  (0.39 giây) |Nội dung chứa chính xác cụm từ được sắp xếp ở trên đầu kết quả tìm kiếm |
+| Puppy Dog Sweaters | xấp xỉ 50,000,000 kết quả (0.53 giây) |Nội dung chứa 3 từ theo bất kỳ thứ tự nào |
+| "Puppy Dog Sweaters" | xấp xỉ 773,000 kết quả (0.39 giây) |Nội dung chứa chính xác cụm từ được sắp xếp ở trên đầu kết quả tìm kiếm |
 
 Điều này có thể giúp xác định vị trí thông tin cụ thể có thể bị chôn vùi trong nội dung khác nếu không được sắp xếp chính xác.
 
 ## 3. Dùng dấu trừ `-`
 
 Dấu trừ `-` trong câu truy vấn để dùng để loại trừ các kết quả không mong muốn.
-Ví dụ, người dùng muốn tìm kiếm *jupiter* (loại xe máy của hãng Yamaha). Nhưng kết quả lại là bị lẫn với thông tin về sao Mộc (một hành tinh trong hệ Mặt Trời). Để loại trừ kết quả này, câu truy vấn sẽ sửa lại thành: `jupiter -planet`.
+Ví dụ, người dùng muốn tìm kiếm _jupiter_ (loại xe máy của hãng Yamaha). Nhưng kết quả lại là bị lẫn với thông tin về sao Mộc (một hành tinh trong hệ Mặt Trời). Để loại trừ kết quả này, câu truy vấn sẽ sửa lại thành: `jupiter -planet`.
 
 ![googletips-nominus](./Images/googletips-minus0.png)
 
@@ -62,7 +63,7 @@ Ví dụ, người dùng muốn tìm kiếm *jupiter* (loại xe máy của hãn
 ## 4. Dùng dấu hoa thị `*`
 
 Dấu hoa thị `*` là một trong mẹo hữu ích nhất khi tìm kiếm. Google Search sẽ hiểu rằng `*` có thể là bất kỳ từ nào, và sẽ tìm kiếm kết quả có liên quan đến câu truy vấn nhất.
-Ví dụ như tìm một bài hát nhưng không biết hết các từ trong phần lời, người dùng chỉ cần đơn giản nhập truy vấn như sau:  `Come * right now * me`.
+Ví dụ như tìm một bài hát nhưng không biết hết các từ trong phần lời, người dùng chỉ cần đơn giản nhập truy vấn như sau: `Come * right now * me`.
 
 ![googletips-asterisk](./Images/googletips-asterisk.png)
 Kết quả là bài hát Come Together của nhóm nhạc The Beatles.
@@ -73,14 +74,14 @@ Cú pháp `từ khóa/nội dung site:trang web` để tìm kiếm kết quả c
 
 ![googletips-site](./Images/googletips-site.png)
 
-## 6. Dùng cú pháp  `link`
+## 6. Dùng cú pháp `link`
 
 Cú pháp `link:tên trang web` để tìm trang web liên kết đến trang web trong cú pháp.
-Câu truy vấn: `link:tiki.vn` sẽ tìm thấy khoảng 2,480,000 kết quả  (0.38 giây).
+Câu truy vấn: `link:tiki.vn` sẽ tìm thấy khoảng 2,480,000 kết quả (0.38 giây).
 
 ![googletips-link](./Images/googletips-link.png)
 
-## 7. Dùng cú pháp  `related`
+## 7. Dùng cú pháp `related`
 
 Cú pháp `related:tên trang web` để tìm trang web tương tự trang web trong cú pháp.
 Ví dụ, người dùng tìm một kênh bán thiết bị điện tử như FPT Shop, câu truy vấn sẽ là: `related:fptshop.com.vn`.
@@ -109,7 +110,7 @@ Chất lượng của quá trình và kết quả tìm kiếm phụ thuộc rấ
 
 ## 11. Tăng dần độ phức tạp của câu truy vấn
 
-Thỉnh thoảng, kết quả tìm kiếm không được như mong đợi. Trong trường hợp này, việc giữ cho câu truy vấn đơn giản có thể không phải là lựa chọn tốt nhất. 
+Thỉnh thoảng, kết quả tìm kiếm không được như mong đợi. Trong trường hợp này, việc giữ cho câu truy vấn đơn giản có thể không phải là lựa chọn tốt nhất.
 Google đưa ra gợi ý rằng tăng dần độ phức tạp của cấu trúc từ khóa sau mỗi lần tìm kiếm để đạt hiệu quả tốt hơn:
 | Lần thử | Câu truy vấn |
 |--|--|
@@ -150,7 +151,7 @@ Cú pháp `DEFINE:từ/cụm từ` để nhanh chóng tra nghĩa của từ, bao
 
 ![googletips-define](./Images/googletips-define.png)
 
->Bài viết được tham khảo từ:
+> Bài viết được tham khảo từ:
 >
->- [https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html]
->- [https://time.com/4116259/google-search-2/]
+> - [https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html]
+> - [https://time.com/4116259/google-search-2/]

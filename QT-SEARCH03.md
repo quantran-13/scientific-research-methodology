@@ -4,7 +4,7 @@
 >
 > - Quora
 > - Google Scholar
-> - ResearchGate 
+> - ResearchGate
 > - Connected Papers
 > - Wikipedia
 
@@ -18,20 +18,20 @@
 
 ## 1. ResearchGate
 
-***Trang chủ:** https://www.researchgate.net/*
+**\*Trang chủ:** https://www.researchgate.net/*
 
 ResearchGate là một mạng xã hội dành cho nhà khoa học và nhà nghiên cứu để chia sẻ các dự án và nghiên cứu, đồng thời có thể đặt câu hỏi và trả lời câu hỏi, hoặc tìm kiếm người để cộng tác. Bộ lọc cụ thể và đa dạng giúp người dùng dễ dàng tìm kiếm hơn:
 
-| Bộ lọc | Yêu cầu | Giải thích |
-|--|--|--|
-|Researchers|Đăng nhập|Những nhà khoa học và nghiên cứu liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
-|Projects|Đăng nhập|Những dự án chưa được công bố rộng rãi liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
-|Publicaions| |Những dự án hoặc nghiên cứu được công bố rộng rãi liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
-|Questions| |Những câu hỏi và trả lời có liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
-|Jobs|Đăng nhập|Những dự án hoặc nghiên cứu cần tìm kiếm người cộng tác
-|Institutions|Đăng nhập|Trường Đại học có ngành học thuộc lĩnh vực tìm kiếm, hoặc có nhóm nghiên cứu và dự án liên quan đến câu truy vấn; Các tổ chức thuộc chính phủ nghiên cứu về lĩnh vực này
-|Departments|Đăng nhập|Những tổ chức khoa học và nghiên cứu liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
-|Authors||Tác giả của bài viết, dự án liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm
+| Bộ lọc       | Yêu cầu   | Giải thích                                                                                                                                                               |
+| ------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers  | Đăng nhập | Những nhà khoa học và nghiên cứu liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm                                                                                       |
+| Projects     | Đăng nhập | Những dự án chưa được công bố rộng rãi liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm                                                                                 |
+| Publicaions  |           | Những dự án hoặc nghiên cứu được công bố rộng rãi liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm                                                                      |
+| Questions    |           | Những câu hỏi và trả lời có liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm                                                                                            |
+| Jobs         | Đăng nhập | Những dự án hoặc nghiên cứu cần tìm kiếm người cộng tác                                                                                                                  |
+| Institutions | Đăng nhập | Trường Đại học có ngành học thuộc lĩnh vực tìm kiếm, hoặc có nhóm nghiên cứu và dự án liên quan đến câu truy vấn; Các tổ chức thuộc chính phủ nghiên cứu về lĩnh vực này |
+| Departments  | Đăng nhập | Những tổ chức khoa học và nghiên cứu liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm                                                                                   |
+| Authors      |           | Tác giả của bài viết, dự án liên quan đến câu truy vấn hoặc lĩnh vực tìm kiếm                                                                                            |
 
 Ví dụ, người dùng muốn tìm kiếm những bài viết liên quan đến "Biến đổi khí hậu" (tiếng Anh là "Climate change"). Các bước thực hiện tìm kiếm như sau:
 
@@ -44,14 +44,14 @@ Ví dụ, người dùng muốn tìm kiếm những bài viết liên quan đế
 - Bước 4: Lựa chọn bộ lọc phù hợp để tìm kiếm thông tin
 
 ![rg before log in](./Images/rg-beforelogin.png)
-*Hình 1: Kết quả tìm kiếm và bộ lọc khi chưa đăng nhập*
+_Hình 1: Kết quả tìm kiếm và bộ lọc khi chưa đăng nhập_
 
 ![rg after log in](./Images/rg-afterlogin.png)
-*Hình 2: Kết quả tìm kiếm và bộ lọc khi đã đăng nhập*
+_Hình 2: Kết quả tìm kiếm và bộ lọc khi đã đăng nhập_
 
 ## 2. Wikipedia
 
-***Trang chủ:** https://www.wikipedia.org/*
+**\*Trang chủ:** https://www.wikipedia.org/*
 
 ![wikipedia](./Images/wikipedia.png)
 
@@ -67,4 +67,4 @@ Kết quả trả về: https://vi.wikipedia.org/wiki/Bi%E1%BA%BFn_%C4%91%E1%BB%
 
 Để thay đổi ngôn ngữ thể hiện bài viết, người dùng có thể nhấp vào ngôn ngữ muốn chọn.
 
-![other language](./Images/wikipedia-other-languages.png) 
+![other language](./Images/wikipedia-other-languages.png)

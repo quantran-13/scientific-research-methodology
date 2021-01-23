@@ -1,6 +1,6 @@
 # SEMINAR: NHỮNG VẤN ĐỀ CƠ BẢN VỀ SÁNG CHẾ
 
-Nhóm: N005
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân
@@ -36,13 +36,15 @@ Bằng độc quyền sáng chế là độc quyền do chính phủ cấp cho m
 Sáng chế được bảo hộ đưới hình thức cấp bằng bằng độc quyền sáng chế, nếu đáp ứng được:
 
 - Tính mới
-    > Sáng chế được coi là có tính mới nếu ***chưa bị bộc lộ công khai*** dưới hình thức sử dụng, mô tả bằng văn bản hoặc bất kỳ hình thức nào khác ở trong nước hoặc ở nước ngoài trước ngày nộp đơn đăng ký sáng chế. Nếu chỉ có một số người có hạn được biết và có nghĩa vụ giữ bí mật, sáng chế vẫn được coi là chưa bị bộc lộ công khai.
+
+  > Sáng chế được coi là có tính mới nếu **_chưa bị bộc lộ công khai_** dưới hình thức sử dụng, mô tả bằng văn bản hoặc bất kỳ hình thức nào khác ở trong nước hoặc ở nước ngoài trước ngày nộp đơn đăng ký sáng chế. Nếu chỉ có một số người có hạn được biết và có nghĩa vụ giữ bí mật, sáng chế vẫn được coi là chưa bị bộc lộ công khai.
 
 - Tính sáng tạo
-    > Sáng chế được coi là có trình đồ sáng tạo nếu ***sáng chế đó là một bước tiến sáng tạo, không thể được tạo ra một cách dễ dàng đối với người có hiểu biết trung bình về lĩnh vực kỹ thuật tương ứng***.
+
+  > Sáng chế được coi là có trình đồ sáng tạo nếu **_sáng chế đó là một bước tiến sáng tạo, không thể được tạo ra một cách dễ dàng đối với người có hiểu biết trung bình về lĩnh vực kỹ thuật tương ứng_**.
 
 - Khả năng áp dụng công nghiệp
-    > Sáng chế được coi là có khả năng áp dụng công nghiệp nếu có thể thực hiện được việc ***chế tạo, sản xuất hàng loạt*** sản phẩm hoặc ***áp dụng lặp đi lặp lại*** quy trình là nội dung của sáng chế và thu được ***kết quả ổn định***.
+  > Sáng chế được coi là có khả năng áp dụng công nghiệp nếu có thể thực hiện được việc **_chế tạo, sản xuất hàng loạt_** sản phẩm hoặc **_áp dụng lặp đi lặp lại_** quy trình là nội dung của sáng chế và thu được **_kết quả ổn định_**.
 
 ## 3. Tại sao phải đăng ký sáng chế cho sản phẩm hoặc quy trình kỹ thuật của mình?
 
@@ -66,7 +68,7 @@ Sáng chế được bảo hộ đưới hình thức cấp bằng bằng độc
 
 Giải pháp hữu ích là giải pháp kỹ thuật dưới dạng sản phẩm hoặc quy trình nhằm giải quyết một vấn đề xác định bằng việc áp dụng các quy luật tự nhiên. Giải pháp hữu ích phải do hoạt động lao động sáng tạo của con người chứ không phải sản phẩm tự nhiên.
 
-Giải pháp hữu ích là sản phẩm dưới dạng một kết cấu như máy móc, thiết bị, linh kiện, dụng cụ, hoặc dưới một chất như vật liệu, chất liệu, thực phẩm, dược phẩm... Ngoài ra, giải pháp hữu ích  có thể là quy trình công nghệ, phương pháp chuẩn đoán, dự báo, kiểm tra, xử lý, sản xuất, chế tạo...
+Giải pháp hữu ích là sản phẩm dưới dạng một kết cấu như máy móc, thiết bị, linh kiện, dụng cụ, hoặc dưới một chất như vật liệu, chất liệu, thực phẩm, dược phẩm... Ngoài ra, giải pháp hữu ích có thể là quy trình công nghệ, phương pháp chuẩn đoán, dự báo, kiểm tra, xử lý, sản xuất, chế tạo...
 
 ## 6. Thủ tục đăng ký bảo hộ sáng chế như thế nào?
 
@@ -77,7 +79,8 @@ Giải pháp hữu ích là sản phẩm dưới dạng một kết cấu như m
 - **02 Tờ khai** đăng ký sáng chế, đánh máy theo mẫu số 01-SC Phụ lục A của Thông tư số 01/2007/TT-BKHCN;
 - **02 Bản mô tả** sáng chế/ giải pháp hữu ích; Bản mô tả sáng chế/giải pháp hữu ích phải đáp ứng quy định tại điểm 23.6 Thông tư số 01/2007/TT-BKHCN. Bản mô tả sáng chế/giải pháp hữu ích gồm có Phần mô tả, Yêu cầu bảo hộ và Hình vẽ (nếu có).
 
-    *Phần mô tả* phải được trình bày đầy đủ, rõ ràng bản chất của sáng chế theo các nội dung sau:
+  _Phần mô tả_ phải được trình bày đầy đủ, rõ ràng bản chất của sáng chế theo các nội dung sau:
+
   - Tên sáng chế/giải pháp hữu ích;
   - Lĩnh vực sử dụng sáng chế/giải pháp hữu ích;
   - Tình trạng kỹ thuật của lĩnh vực sử dụng sáng chế/giải pháp hữu ích;
@@ -85,11 +88,11 @@ Giải pháp hữu ích là sản phẩm dưới dạng một kết cấu như m
   - Mô tả vắn tắt các hình vẽ kèm theo (nếu có);
   - Mô tả chi tiết các phương án thực hiện sáng chế/giải pháp hữu ích;
   - Ví dụ thực hiện sáng chế/giải pháp hữu ích;
-  - Những lợi ích (hiệu quả) có  thể đạt được].
+  - Những lợi ích (hiệu quả) có thể đạt được].
 
-    *Yêu cầu bảo hộ* được tách thành riêng sau phần mô tả, yêu cầu bảo hộ được dùng để xác định phạm vi quyền sở hữu công nghiệp đối với sáng chế. Yêu cầu bảo hộ phải được trình bày ngắn gọn, rõ ràng, phù hợp với phần mô tả và hình vẽ, trong đó phải làm rõ những dấu hiệu mới của đối tượng yêu cầu được bảo hộ.
+    _Yêu cầu bảo hộ_ được tách thành riêng sau phần mô tả, yêu cầu bảo hộ được dùng để xác định phạm vi quyền sở hữu công nghiệp đối với sáng chế. Yêu cầu bảo hộ phải được trình bày ngắn gọn, rõ ràng, phù hợp với phần mô tả và hình vẽ, trong đó phải làm rõ những dấu hiệu mới của đối tượng yêu cầu được bảo hộ.
 
-    *Hình vẽ, sơ đồ (nếu có)*: được tách thành trang riêng.
+    _Hình vẽ, sơ đồ (nếu có)_: được tách thành trang riêng.
 
 - **02 Bản tóm tắt** sáng chế/giải pháp hữu ích. Tóm tắt sáng chế/giải pháp hữu ích không được vượt quá 150 từ và phải được tách thành trang riêng. Bản tóm tắt sáng chế/giải pháp hữu ích không bắt buộc phải nộp tại thời điểm nộp đơn và người nộp đơn có thể bổ sung sau;
 
@@ -105,7 +108,7 @@ Giải pháp hữu ích là sản phẩm dưới dạng một kết cấu như m
 ### 6.3. Yêu cầu chung đối với đơn đăng ký
 
 - Mỗi đơn chỉ được yêu cầu cấp một văn bằng bảo hộ và loại văn bằng bảo hộ được yêu cầu cấp phải phù hợp với đối tượng giải pháp kỹ thuật nêu trong đơn;
-- Mọi tài liệu của đơn đều phải được làm bằng tiếng Việt. Đối với các tài liệu được làm bằng ngôn ngữ khác theo quy định tại các điểm 7.3 và 7.4 của Thông tư  01/2007/TT-BKHCN thì phải được dịch ra tiếng Việt;
+- Mọi tài liệu của đơn đều phải được làm bằng tiếng Việt. Đối với các tài liệu được làm bằng ngôn ngữ khác theo quy định tại các điểm 7.3 và 7.4 của Thông tư 01/2007/TT-BKHCN thì phải được dịch ra tiếng Việt;
 - Mọi tài liệu đều phải được trình bày theo chiều dọc (riêng hình vẽ, sơ đồ và bảng biểu có thể được trình bày theo chiều ngang) trên một mặt giấy khổ A4 (210mm x 297mm), trong đó có chừa lề theo bốn phía, mỗi lề rộng 20mm, theo phông chữ Times New Roman, chữ không nhỏ hơn cỡ 13, trừ các tài liệu bổ trợ mà nguồn gốc tài liệu đó không nhằm để đưa vào đơn;
 - Đối với tài liệu cần lập theo mẫu thì bắt buộc phải sử dụng các mẫu đó và điền đầy đủ các thông tin theo yêu cầu vào những chỗ thích hợp;
 - Mỗi loại tài liệu nếu bao gồm nhiều trang thì mỗi trang phải ghi số thứ tự trang đó bằng chữ số Ả-rập;
@@ -213,7 +216,7 @@ Cụ thể, thông tin sáng chế còn đề cập đến:
 - Trích dẫn và tài liệu tham khảo: Một số tài liệu sáng chế nhất định có thể dẫn chiếu đến các thông tin công nghệ có liên quan khác được người nộp đơn hoặc thẩm định viên sáng chế tìm ra trong quá trình thực hiện thủ tục cấp bằng độc quyền sáng chế; các trích dẫn và tài liệu tham khảo đó bao gồm tài liệu sáng chế và tài liệu phi sáng chế;
 - Dữ liệu thư mục: đề cập đến nhiều dữ liệu xuất hiện ở trang đầu tiên của tài liệu sáng chế hoặc của đơn tương ứng, và có thể bao gồm dữ liệu nhận dạng về tác giả, dữ liệu về nộp đơn quốc gia, dữ liệu về quyền ưu tiên, dữ liệu công bố đơn, dữ liệu phân loại và các dữ liệu khác liên quan đến nội dung kỹ thuật của đơn;
 - Mã loại tài liệu: được sử dụng để phân biệt các tài liệu sáng chế được công bố theo loại và tình trạng pháp lý (xem Tiêu chuẩn ST.16 của WIPO); ví dụ, mã A1 được sử dụng cho đơn đã được công bố có kèm theo Báo cáo tra cứu quốc tế; mã A2 được sử dụng cho đơn đã được công bố nhưng không có Báo cáo tra cứu quốc tế, và mã A3 được sử dụng cho Báo cáo tra cứu quốc tế được công bố độc lập với đơn;
-- Mã nhận dạng quốc tế (INID - được dùng để xác định các dữ liệu thư mục): để nhận biết các nội dung khác nhau của dữ liệu thư mục (xem Tiêu chuẩn ST.9 của WIPO); ví dụ, “11” là số bằng độc quyền sáng chế, “54” là tên sáng chế; danh mục đầy đủ về mã nhận dạng quốc tế có thể được tìm thấy tại: https://www.wipo.int/standards/en/pdf/03-09-01.pdf#INID
+- Mã nhận dạng quốc tế (INID - được dùng để xác định các dữ liệu thư mục): để nhận biết các nội dung khác nhau của dữ liệu thư mục (xem Tiêu chuẩn ST.9 của WIPO); ví dụ, “11” là số bằng độc quyền sáng chế, “54” là tên sáng chế; danh mục đầy đủ về mã nhận dạng quốc tế có thể được tìm thấy tại [đây](https://www.wipo.int/standards/en/pdf/03-09-01.pdf#INID);
 - Mã quốc gia: để chỉ các quốc gia khác nhau bằng 2 ký tự, ví dụ, “WO” là Văn phòng quốc tế của WIPO; danh mục mã quốc gia có thể xem tại Tiêu chuẩn ST.3 của WIPO.
 
 ## 10. Có thể tra cứu thông tin sáng chế ở đâu?

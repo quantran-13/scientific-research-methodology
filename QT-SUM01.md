@@ -1,6 +1,6 @@
 # BÁO CÁO TÓM TẮT VỀ BUỔI SEMINAR “QUYỀN SỞ HỮU TRÍ TUỆ VÀ KHAI THÁC QUYỀN SỞ HỮU TRÍ TUỆ TRONG LĨNH VỰC CÔNG NGHỆ THÔNG TIN”
 
-Nhóm: N005
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân

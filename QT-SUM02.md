@@ -1,6 +1,6 @@
 # ASKING QUESTIONS & WRITING 5-SENTENCE PARAGRAPH
 
-Nhóm: N005
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân
@@ -10,7 +10,7 @@ Nhóm: N005
 
 ## Asking Questions
 
-The 5W1H questioning technique is a framework that you can use when gathering information and investigating a problem. The 5Ws are *"what"*, *"where"*, *"when"*, *"why"* and *"who"* and the 1H is *"how"*.
+The 5W1H questioning technique is a framework that you can use when gathering information and investigating a problem. The 5Ws are _"what"_, _"where"_, _"when"_, _"why"_ and _"who"_ and the 1H is _"how"_.
 
 | 5W1H  | Explanation                                                                                           | Targets                                                                          | Sample questions                                                                                        |
 | ----- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -21,9 +21,10 @@ The 5W1H questioning technique is a framework that you can use when gathering in
 | Why   | Describe the motivation, or the objective, or the justification or reason behind a method of working. | Goals, purposes, justification, etc.                                             | - Why do we have to do it? <br>- Why is the program important? <br>- Why is the project necessary?      |
 | How   | Determine the way to proceed, the steps and method employed.                                          | Procedures, organisational methods, the actions, means and techniques used, etc. | - How did it happen? <br>- How will the program work? <br>- How will success be measured?               |
 
-Reference: 
-https://www.humanperf.com/en/blog/nowiunderstand-glossary/articles/5W1H-method?fbclid=IwAR1YJYLEC-XcV6gCJjp0sWDIxXMQxvAiIiUaBkFCyfV9oaMOMmsqY33e7uY
-https://online.visual-paradigm.com/knowledge/5w1h/how-to-research-topic-with-5w1h/?fbclid=IwAR0CdI4xp89sWssZ6jJ9RfOYw4HxtJc_IgbZejzmwU_6Ff-E_mvnukyC6mA
+Reference:
+
+- https://www.humanperf.com/en/blog/nowiunderstand-glossary/articles/5W1H-method?fbclid=IwAR1YJYLEC-XcV6gCJjp0sWDIxXMQxvAiIiUaBkFCyfV9oaMOMmsqY33e7uY
+- https://online.visual-paradigm.com/knowledge/5w1h/how-to-research-topic-with-5w1h/?fbclid=IwAR0CdI4xp89sWssZ6jJ9RfOYw4HxtJc_IgbZejzmwU_6Ff-E_mvnukyC6mA
 
 ## Writing 5-sentence paragraph
 

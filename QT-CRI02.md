@@ -1,6 +1,6 @@
 # CHO BIẾT CÁC RÀO CẢN CỦA TƯ DUY PHẢN BIỆN ĐƯỢC NÊU RA TRONG VIDEO VÀ CHO VÍ DỤ VỀ MỘT TRONG CÁC RÀO CẢN ĐÓ
 
-Nhóm: N005
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân

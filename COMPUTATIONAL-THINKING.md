@@ -1,6 +1,12 @@
 # COMPUTATIONAL THINKING (TƯ DUY MÁY TÍNH)
 
-Nhóm: N005
+> Problem-Solving Skill là một trong các kỹ năng quan trọng rất cần trong công việc hàng ngày.
+>
+> Với người học IT, cần phải tư duy cách giải quyết vấn đề sao cho có thể dùng máy tính để giải quyết.
+>
+> Hãy tham khảo các tài liệu sau và trình bày lại những gì mà bạn hiểu về Computational Thinking - đồng thời minh hoạ một tình huống áp dụng Computational Thinking trong giải quyết một vấn đề nào đó. (Nộp bài trong phần Classwork).
+
+**Nhóm N005:**
 
 - 16521206 - Phạm Ngọc Phúc Thuần
 - 17520943 - Trần Nguyễn Hồng Quân

@@ -10,7 +10,7 @@
 
 ---
 
-*Research Area: Computer Vision*
+_Research Area: Computer Vision_
 
 **Tìm các hội nghị hàng đầu:**
 
